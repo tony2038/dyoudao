@@ -1,0 +1,13 @@
+{
+	"name": "dyoudao",
+	"authors": [
+		"Tony"
+	],
+	"dependencies": {
+		"d-leveldb": "~master",
+		"bdb2d": "~>5.3.28"
+	},
+	"description": "Command tool for youdao dictionary written by D language",
+	"copyright": "Copyright © 2017, Tony",
+	"license": "GPL3"
+}
